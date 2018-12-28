@@ -28,3 +28,4 @@ A list of goals I've to achieve in 2019
 - [ ] Firebase
 - [ ] Datastructures
 - [ ] Algorithms
+- [ ] Graph QL
