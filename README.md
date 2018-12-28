@@ -29,3 +29,13 @@ A list of goals I've to achieve in 2019
 - [ ] Datastructures
 - [ ] Algorithms
 - [ ] Graph QL
+
+
+- [ ] Custom language compiler/interpreter
+- [ ] Custom network protocol design
+- [ ] Custom operating system
+- [ ] Custom data structure
+- [ ] Custom HTTP server
+- [ ] A better or equalent layer to TCP over UDP
+- [ ] Backend database storage structure ( Indexing, Addressing, Caching,  e.t.c )
+- [ ] Implementation of IPC
