@@ -1,10 +1,14 @@
 # Goals-2019
 A list of goals I've to achieve in 2019
 
+Lets do it
+
 ### Symbols
 :pushpin: In progress / Working on it
 - [ ] To do/ To Learn
 - [X] Done/ Learnt
+
+
 
 
 ## Basics
